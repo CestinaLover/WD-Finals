@@ -1,0 +1,114 @@
+/* Common Styles for All Cards */
+.card {
+    width: 190px;
+    height: 254px;
+    border-radius: 20px;
+    background-color: #fff; /* Initial background color */
+    position: relative;
+    padding: 1.8rem;
+    border: 2px solid #c3c6ce;
+    transition: 0.5s ease-out;
+    overflow: visible;
+    color: black; /* Ensuring text is readable against the background */
+}
+
+/* Facebook Card */
+.card-facebook {
+    background-image: url('/WD-Finals/assets/img/fb.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: #fff;
+}
+
+.card-facebook:hover {
+    background-color: transparent;
+}
+
+/* Instagram Card */
+.card-instagram {
+    background-image: url('/WD-Finals/assets/img/instagram.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: #fff;
+}
+
+.card-instagram:hover {
+    background-color: transparent;
+}
+
+/* Twitter Card */
+.card-twitter {
+    background-image: url('/WD-Finals/assets/img/x.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: #fff;
+}
+
+.card-twitter:hover {
+    background-color: transparent;
+}
+
+/* Gmail Card */
+.card-gmail {
+    background-image: url('/WD-Finals/assets/img/gmail.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: #fff;
+}
+
+.card-gmail:hover {
+    background-color: transparent;
+}
+
+/* Common Styles for All Cards */
+.card-details {
+    height: 100%;
+    gap: .5em;
+    display: grid;
+    place-content: center;
+}
+
+.card-button {
+    transform: translate(-50%, 125%);
+    width: 60%;
+    border-radius: 1rem;
+    border: none;
+    background-color: #000000;
+    color: #fff;
+    font-size: 1rem;
+    padding: .5rem 1rem;
+    position: absolute;
+    left: 52%;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.3s ease-out;
+}
+
+.text-body {
+    color: rgb(44, 44, 44)
+}
+
+.text-title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/* Hover Effects */
+.card-facebook:hover, .card-instagram:hover, .card-twitter:hover, .card-gmail:hover {
+    border-color: #008bf8;
+    box-shadow: 0 4px 18px 0 rgba(255, 255, 255, 0.25);
+    color: rgb(44, 44, 44);
+}
+
+.card-facebook:hover .card-button, .card-instagram:hover .card-button, .card-twitter:hover .card-button, .card-gmail:hover .card-button {
+    transform: translate(-50%, 50%);
+    opacity: 1;
+}
