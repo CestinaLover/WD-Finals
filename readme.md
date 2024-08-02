@@ -73,14 +73,7 @@ This project is my final submission for my Web Design class. The goal of this pr
 
 ## Description
 
-This is my Hands-On 2 for my web design class, hope you like it!
-The goal is to make a cool Hero and Card Display Website, the website includes at least 5 pages, each with distinct layouts to highlight various features:
-
-<b>Home:</b> Introduction and overview of the site.
-<b>About Me:</b> Detailed background information, including education, school experience, and personal interests.
-<b>My Schoolworks:</b> Showcase of my past projects with descriptions and links.
-<b>My Addiction:</b> A bonus page, where I present my addiction to factory games, such as Satisfactory.
-<b>Contact:</b> A page with my contact information and a form for visitors to reach out to me.
+This is my Final Project for my Web Design Class, the goal is to build a personal website that demonstrates the students design skills and web development knowledge.
 
 ## Website Instructions:
 
