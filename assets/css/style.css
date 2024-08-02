@@ -1555,7 +1555,7 @@ valorant-body {
 
 kratos-body {
   font-family: 'Arial', sans-serif;
-  background: url('/WD-Finals/assets/img/GoW.jpg') no-repeat center center fixed;
+  background: url('/WD-Finals/assets/img/gow.jpg') no-repeat center center fixed;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -1828,7 +1828,7 @@ kratos-body {
 
 jinwoo-body {
   font-family: 'Arial', sans-serif;
-  background: url('/WD-Finals/assets/img/NightSky.jpg') no-repeat center center fixed;
+  background: url('/WD-Finals/assets/img/nightsky.jpg') no-repeat center center fixed;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -2081,7 +2081,7 @@ jinwoo-body {
 
 chief-body {
   font-family: 'Arial', sans-serif;
-  background: url('/WD-Finals/assets/img/Halo.jpg') no-repeat center center fixed;
+  background: url('/WD-Finals/assets/img/halo.jpg') no-repeat center center fixed;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -2568,7 +2568,7 @@ yeet {
   height: 100vh;
   width: 100vw;
   flex-direction: row;
-  background: url("/WD-Finals/assets/img/NightSky.jpg") no-repeat center center fixed;
+  background: url("/WD-Finals/assets/img/nightsky.jpg") no-repeat center center fixed;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -2813,7 +2813,7 @@ hero-valorant-body {
   height: 100vh;
   width: 100vw;
   flex-direction: row;
-  background: url("/WD-Finals/assets/img/NOIR.jpg") no-repeat center center fixed;
+  background: url("/WD-Finals/assets/img/noir.jpg") no-repeat center center fixed;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -2853,7 +2853,7 @@ sukuna2-body {
 
 sukuna1-body {
   font-family: 'Arial', sans-serif;
-  background: url('/WD-Finals/assets/img/TORII.jpg') no-repeat center center fixed;
+  background: url('/WD-Finals/assets/img/torii.jpg') no-repeat center center fixed;
   background-size: cover;
   display: flex;
   height: 30vh;
@@ -2864,7 +2864,7 @@ sukuna1-body {
 
 sukuna-body {
   font-family: 'Arial', sans-serif;
-  background: url('/WD-Finals/assets/img/TORII.jpg') no-repeat center center fixed;
+  background: url('/WD-Finals/assets/img/torii.jpg') no-repeat center center fixed;
   background-size: cover;
   display: flex;
   height: 50vh;
