@@ -78,9 +78,13 @@ This is my Final Project for my Web Design Class, the goal is to build a persona
 The website includes at least 5 pages, each with distinct layouts to highlight various features:
 
 <b>Home:</b> Introduction and overview of who I am and what I do.
+
 <b>About Me:</b> Detailed background information, including education, work experience, and personal interests.
+
 <b>Projects:</b> Showcase of my past projects with descriptions and links.
+
 <b>Skills:</b> An overview of my skills, including technical proficiencies and soft skills.
+
 <b>Contact:</b> A page with my contact information and a form for visitors to reach out to me.
 
 ## Website Instructions:
