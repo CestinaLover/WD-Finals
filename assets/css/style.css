@@ -2828,6 +2828,18 @@ hero-valorant-body {
   box-sizing: border-box;
 }
 
+
+sukuna3-body {
+  font-family: 'Arial', sans-serif;
+  background: url('/WD-Finals/assets/img/noir.jpg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
 sukuna2-body {
   font-family: 'Arial', sans-serif;
   background: url('/WD-Finals/assets/img/TORII.jpg') no-repeat center center fixed;
