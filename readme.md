@@ -69,17 +69,23 @@
 
 <!-- TODO: To be changed -->
 
-This is the overview for my shizzle dibbles
+This project is my final submission for my Web Design class. The goal of this project is to build a personal website that demonstrates my design skills and web development knowledge. The website serves as a portfolio to showcase my skills and past projects.
 
 ## Description
 
 This is my Hands-On 2 for my web design class, hope you like it!
-The goal is to make a cool Hero and Card Display Website.
+The goal is to make a cool Hero and Card Display Website, the website includes at least 5 pages, each with distinct layouts to highlight various features:
+
+<b>Home:</b> Introduction and overview of the site.
+<b>About Me:</b> Detailed background information, including education, school experience, and personal interests.
+<b>My Schoolworks:</b> Showcase of my past projects with descriptions and links.
+<b>My Addiction:</b> A bonus page, where I present my addiction to factory games, such as Satisfactory.
+<b>Contact:</b> A page with my contact information and a form for visitors to reach out to me.
 
 ## Website Instructions:
 
-You will first be sent to the home page where you can read my About Me and other stuff,
-once you are done reading, you can check out The Noir's and the Noir's Gallery by cicking the buttons on the top right, Navigate however you wish, and hope you enjoy my work!.
+You will first be sent to the home page where you can read my About the purpose of the site and other stuff,
+once you are done reading, you can check out About Me, My Schoolworks, My Addiction, and finally My Contact Info, by cicking the buttons on the top right, Navigate however you wish, and hope you enjoy my work!.
 
 ### File Structure
 
